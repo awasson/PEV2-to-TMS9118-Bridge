@@ -2,7 +2,7 @@
 ![IMG_0380_A](https://github.com/awasson/PEV2-to-TMS9118-Bridge/assets/2935397/71db24f5-6a93-4010-816d-491870fc2345)
 
 ## What is it?
-It's an adapter card to join the rileym65 / Pico/Elf V2 COSMAC CDP1802 Microcomputer to the fourstix / PicoElfTMS9118VIOCard (TMS 9118 video, Hex keypad, TIL311 data displays).
+It's an adapter card to join the rileym65 / Pico/Elf V2 COSMAC CDP1802 Microcomputer to the fourstix / PicoElfTMS9118VIOCard (TMS 9118 video, Hex keypad, TIL311 data displays).\
 <img width="50%" alt="PEV2-to-TMS9118-Brisdge" src="https://github.com/awasson/PEV2-to-TMS9118-Bridge/assets/2935397/24a4caba-2cc6-4280-a081-ec3581213e0b">
 
 The bridge was designed to use whatever gender of sockets are needed to join a Pico/Elf V2 with a PicoElfTMS9118VIOCard. Long pin sockets can be used to extend the card so that additional IDE type cables or cards can be stacked above the main boards. 
